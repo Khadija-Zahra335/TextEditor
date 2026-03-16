@@ -1,0 +1,10 @@
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.csproj.AssemblyReference.cache
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.Form1.resources
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.Properties.Resources.resources
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.csproj.GenerateResource.cache
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.csproj.CoreCompileInputs.cache
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\bin\Debug\KhadijaNotePad.exe.config
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\bin\Debug\KhadijaNotePad.exe
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\bin\Debug\KhadijaNotePad.pdb
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.exe
+D:\6th Semester\SCD\KhadijaNotePad\KhadijaNotePad\obj\Debug\KhadijaNotePad.pdb
